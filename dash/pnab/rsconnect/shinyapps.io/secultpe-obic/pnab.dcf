@@ -1,0 +1,10 @@
+name: pnab
+title:
+username: secultpe-obic
+account: secultpe-obic
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13500249
+bundleId: 9801677
+url: https://secultpe-obic.shinyapps.io/pnab/
+version: 1
